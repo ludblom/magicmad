@@ -1,0 +1,7 @@
+Magicmad
+* TODOs
+** TODO Store the cards in a database
+** TODO Print cards in database
+* Notes
+** Base layout
+[[https://github.com/jgehrcke/python-cmdline-bootstrap]]
